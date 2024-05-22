@@ -12,7 +12,7 @@ Terraform mostly. But I feel like I should get back into the programming world a
 
 ## How?
 
-I put up a post on LinkedIn and got a ton of suggestions. Here's the current list:
+I put up a post on [LinkedIn](https://www.linkedin.com/posts/ned-bellavance_it-might-finally-be-time-ive-put-it-off-activity-7198659404630474754-2Cza?utm_source=share&utm_medium=member_desktop) and got a ton of suggestions. Here's the current list:
 
 - A Tour of Go: [https://go.dev/tour/welcome/1](https://go.dev/tour/welcome/1)
 -  Go by Example: [https://gobyexample.com/](https://gobyexample.com/)
