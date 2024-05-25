@@ -22,6 +22,7 @@ I put up a post on [LinkedIn](https://www.linkedin.com/posts/ned-bellavance_it-m
 - Learn how to code with Go: [https://www.udemy.com/course/learn-how-to-code/](https://www.udemy.com/course/learn-how-to-code/)
 - Go Dev Learn: [https://go.dev/learn/](https://go.dev/learn/)
 - Pluralsight Go: [https://app.pluralsight.com/library/courses/fundamentals-go/table-of-contents](https://app.pluralsight.com/library/courses/fundamentals-go/table-of-contents)
+- [Go Code CA](https://www.gocode.ca/courses)
 
 My plan is to spend an hour each day working through these study materials. I have blocked out 9AM every weekday, since I think I learn best in the morning.
 
